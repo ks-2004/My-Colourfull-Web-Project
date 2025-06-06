@@ -20,7 +20,7 @@ A single-page responsive website built using **HTML**, **CSS**, and **JavaScript
 
 1. **Download or Clone the Repository**
    bash
-   git clone https://github.com/your-username/ColorfulWebProject.git
+   git clone https://github.com/ks-2004/ColorfulWebProject.git
 `
 
 2. **Open `index.html` in your browser**
